@@ -2,7 +2,6 @@
 // Scripts for firebase and firebase messaging
 importScripts('/__/firebase/9.2.0/firebase-app-compat.js');
 importScripts('/__/firebase/9.2.0/firebase-messaging-compat.js');
-importScripts('/__/firebase/init.js');
 
 // Initialize the Firebase app in the service worker by passing the generated config
 const firebaseConfig = {
