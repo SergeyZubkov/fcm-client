@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/https://sergeyzubkov.github.io/fcm-client/static/css/main.073c9b0a.css",
-    "main.js": "/https://sergeyzubkov.github.io/fcm-client/static/js/main.eaf7fd4e.js",
-    "static/js/787.0dbea30d.chunk.js": "/https://sergeyzubkov.github.io/fcm-client/static/js/787.0dbea30d.chunk.js",
-    "service-worker.js": "/https://sergeyzubkov.github.io/fcm-client/service-worker.js",
-    "index.html": "/https://sergeyzubkov.github.io/fcm-client/index.html",
-    "main.073c9b0a.css.map": "/https://sergeyzubkov.github.io/fcm-client/static/css/main.073c9b0a.css.map",
-    "main.eaf7fd4e.js.map": "/https://sergeyzubkov.github.io/fcm-client/static/js/main.eaf7fd4e.js.map",
-    "787.0dbea30d.chunk.js.map": "/https://sergeyzubkov.github.io/fcm-client/static/js/787.0dbea30d.chunk.js.map"
+    "main.css": "/fcm-client/static/css/main.073c9b0a.css",
+    "main.js": "/fcm-client/static/js/main.d451894b.js",
+    "static/js/787.0dbea30d.chunk.js": "/fcm-client/static/js/787.0dbea30d.chunk.js",
+    "service-worker.js": "/fcm-client/service-worker.js",
+    "index.html": "/fcm-client/index.html",
+    "main.073c9b0a.css.map": "/fcm-client/static/css/main.073c9b0a.css.map",
+    "main.d451894b.js.map": "/fcm-client/static/js/main.d451894b.js.map",
+    "787.0dbea30d.chunk.js.map": "/fcm-client/static/js/787.0dbea30d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.eaf7fd4e.js"
+    "static/js/main.d451894b.js"
   ]
 }
