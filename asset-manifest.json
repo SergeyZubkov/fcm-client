@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fcm-client/static/css/main.073c9b0a.css",
-    "main.js": "/fcm-client/static/js/main.d451894b.js",
-    "static/js/787.0dbea30d.chunk.js": "/fcm-client/static/js/787.0dbea30d.chunk.js",
-    "service-worker.js": "/fcm-client/service-worker.js",
-    "index.html": "/fcm-client/index.html",
-    "main.073c9b0a.css.map": "/fcm-client/static/css/main.073c9b0a.css.map",
-    "main.d451894b.js.map": "/fcm-client/static/js/main.d451894b.js.map",
-    "787.0dbea30d.chunk.js.map": "/fcm-client/static/js/787.0dbea30d.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.bf8e275d.js",
+    "static/js/787.0dbea30d.chunk.js": "/static/js/787.0dbea30d.chunk.js",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.bf8e275d.js.map": "/static/js/main.bf8e275d.js.map",
+    "787.0dbea30d.chunk.js.map": "/static/js/787.0dbea30d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d451894b.js"
+    "static/js/main.bf8e275d.js"
   ]
 }
